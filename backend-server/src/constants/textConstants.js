@@ -1,0 +1,3 @@
+export default{
+    BOOK_ID_NOT_PROVIDED:"BOOK ID IS NOT PROVIDED."
+};
